@@ -16,14 +16,14 @@
 
 <ul>
   <li>Python 3.x installed</li>
-  <li>`mysql.connector` library installed (`pip install mysql.connector`)</li>
-  <li>`colorama` library installed (`pip install colorama`)</li>
+  <li><code>mysql.connector</code> library installed <code>pip install mysql.connector</code></li>
+  <li><code>colorama</code> library installed <code>pip install colorama</code></li>
 </ul>
 
 <h3>Running the Script</h3>
 
-1. Download or clone the Beebs Brute script.
-2. Open a terminal or command prompt and navigate to the script's directory.
+1. Download or clone the Beebs Brute script using <code> git clone https://github.com/rexluv/beebs-brute </code>.
+2. Open a terminal or command prompt and navigate to the script's directory. <code> cd beebs-brute </code>
 3. Execute the script with the desired options:
 
    <ul>
@@ -58,4 +58,3 @@
 
 <h2>Like what you see?</h2>
 
-<p>If you find Beebs Brute useful, consider giving my gig a like! And if you'd like to support my work further, you can buy me a coffee [link to your coffee platform, e.g., Buy Me a Coffee, Ko-fi].</p>
